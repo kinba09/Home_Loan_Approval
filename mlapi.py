@@ -12,7 +12,7 @@ from encoding import *
 # Initializing 
 app = FastAPI()
 
-pickled_model = pickle.load(open('modeltest.pkl', 'rb'))
+pickled_model = pickle.load(open('modelold.pkl', 'rb')) #modeltest.pkl
 
 
 def pipeline(item: InputData) -> EncodedData:
