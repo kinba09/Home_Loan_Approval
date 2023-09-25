@@ -1,9 +1,7 @@
 # Libraries
 from fastapi import FastAPI
 import pickle
-import numpy as np 
-import requests 
-import gdown
+import numpy as np
 
 # Custom Files 
 from CustomData import *
