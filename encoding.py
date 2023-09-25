@@ -13,11 +13,3 @@ Loan_Term_years_encoding = [3, 5, 7, 10, 15, 20, 25, 30, 40]
 
 Credit_History_encoding = [0, 1]
 
-
-# intro = '''
-# Discover a game-changing solution for predicting Barcelona rent prices. 
-# Our project combines state-of-the-art machine learning, a FastAPI-based 
-# ML model, and a user-friendly Streamlit frontend to provide highly accurate 
-# predictions with a 98% success rate. Whether you're a landlord seeking optimal 
-# pricing or a tenant looking for fair deals, our platform revolutionizes real estate decision-making.
-# '''
