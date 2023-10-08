@@ -3,6 +3,7 @@ Welcome to the Home Loan Approval project! This machine learning-based web appli
 - #### <a href = "https://home-loan-approval.streamlit.app/"> Home_Loan_Approval Streamlit </a>
 - #### <a href = "https://home-loan-approval-api.onrender.com/docs"> Home_Loan_Approval API </a>
 - #### <a href = "https://www.kaggle.com/code/kinbaa/home-loan-approval-eda-prediction"> Home_Loan_Approval Kaggle </a>
+- #### <a href = "https://chrome-crow-c69.notion.site/Home-Loan-Approval-c4625452ba034e8bbdecb3eee8ecc734?pvs=4"> Home_Loan_Approval notion </a>
 
 # Tech Stack
 
